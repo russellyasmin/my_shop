@@ -61,7 +61,7 @@ class DetailsPage extends StatelessWidget {
                                   Text(
                                     "$price",
                                     style: TextStyle(
-                                        fontSize: 25,
+                                        fontSize: 26,
                                         fontWeight: FontWeight.bold),
                                   ),
                                 ],
